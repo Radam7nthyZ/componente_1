@@ -2,6 +2,8 @@ import 'package:componente_1/pages/activities.dart';
 import 'package:componente_1/pages/alert_page.dart';
 import 'package:componente_1/pages/avatar_page.dart';
 import 'package:componente_1/pages/card_page.dart';
+import 'package:componente_1/pages/input_page.dart';
+import 'package:componente_1/pages/selection_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
